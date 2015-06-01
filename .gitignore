@@ -1,0 +1,8 @@
+# Java class files
+*.class
+
+# Generated files
+bin/
+
+# Log Files
+*.log
